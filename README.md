@@ -17,7 +17,7 @@ Skills:  JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanasanju1222)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Sanjanasanju1222)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sanjanasanju1222)  
+
+
 
