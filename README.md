@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Shanjana 
-#### Web Developer
+### Hi there 👋, I'm Shanjana Tanjim
 Hello! I'm a recent B.Sc. in Computer Science and Engineering grad from Daffodil International University, ready to make my mark in the IT sector. My strong communication skills, attention to detail, and problem-solving mindset enable me to thrive in fast-paced environments. I am eager to contribute to a collaborative team where I can continue to grow and make a meaningful impact.
 
 Skills:  JS / HTML / CSS
