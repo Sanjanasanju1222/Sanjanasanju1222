@@ -1,11 +1,17 @@
 ### Hi there 👋, I'm Shanjana Tanjim
-Hello! I'm a recent B.Sc. in Computer Science and Engineering grad from Daffodil International University, ready to make my mark in the IT sector. My strong communication skills, attention to detail, and problem-solving mindset enable me to thrive in fast-paced environments. I am eager to contribute to a collaborative team where I can continue to grow and make a meaningful impact.
+Hello! I'm a recent B.Sc. in Computer Science and Engineering graduate from Daffodil International University, passionate about building a career in Software Quality Assurance (SQA).  
 
-Skills:  JS / HTML / CSS
+I have hands-on experience in **manual testing, test case design, bug reporting, validation testing, and QA documentation** through real-world web testing projects. My strong communication skills, attention to detail, and problem-solving mindset help me ensure software quality and improve user experience.  
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
+I am eager to contribute to a collaborative QA team where I can continue learning, grow professionally, and make a meaningful impact in the IT industry.  
+
+## 🔍 Skills
+Manual Testing | Test Case Design | Bug Reporting | Test Execution | UI Validation | HTML | CSS | JavaScript  
+
+- 🔭 I’m currently working on **web application testing projects**
+- 🌱 I’m currently learning **advanced SQA concepts, API testing, and JavaScript**
+- 👯 I’m looking to collaborate on **QA testing and automation-related GitHub projects**
+- 📊 Interested in **bug tracking, test documentation, and quality improvement**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjanasanju1222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shanjana123/)  
