@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shanjana Tanjim
 Hello! I'm a recent B.Sc. in Computer Science and Engineering graduate from Daffodil International University, passionate about building a career in Software Quality Assurance (SQA).  
 
-I have hands-on experience in **manual testing, test case design, bug reporting, validation testing, and QA documentation** through real-world web testing projects. My strong communication skills, attention to detail, and problem-solving mindset help me ensure software quality and improve user experience.  
+I have hands-on experience in **manual testing, API testing, test case design, bug reporting, validation testing, and QA documentation** through real-world web testing projects. My strong communication skills, attention to detail, and problem-solving mindset help me ensure software quality and improve user experience.  
 
 I am eager to contribute to a collaborative QA team where I can continue learning, grow professionally, and make a meaningful impact in the IT industry.  
 
@@ -9,7 +9,7 @@ I am eager to contribute to a collaborative QA team where I can continue learnin
 Manual Testing | Test Case Design | Bug Reporting | Test Execution | UI Validation | HTML | CSS | JavaScript  
 
 - 🔭 I’m currently working on **web application testing projects**
-- 🌱 I’m currently learning **advanced SQA concepts, API testing, and JavaScript**
+- 🌱 I’m currently learning **Advanced SQA concepts, API testing, and JavaScript**
 - 👯 I’m looking to collaborate on **QA testing and automation-related GitHub projects**
 - 📊 Interested in **bug tracking, test documentation, and quality improvement**
 
