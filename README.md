@@ -6,7 +6,7 @@ I have hands-on experience in **manual testing, API testing, test case design, b
 I am eager to contribute to a collaborative QA team where I can continue learning, grow professionally, and make a meaningful impact in the IT industry.  
 
 ## 🔍 Skills
-Manual Testing | Test Case Design | Bug Reporting | Test Execution | UI Validation | HTML | CSS | JavaScript  
+Manual Testing | API testing | Test Case Design | Bug Reporting | Test Execution | UI Validation | HTML | CSS | JavaScript  
 
 - 🔭 I’m currently working on **web application testing projects**
 - 🌱 I’m currently learning **Advanced SQA concepts, API testing, and JavaScript**
